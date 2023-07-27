@@ -1,7 +1,7 @@
 # Speech-Bot
 
 This is Discord Bot, that can used to generate response for any query while sitting in a voice-channel. This bot is speech-bot, the person should join a voice channel 
-and then ask any question to the bot and bot will give the answer in the text-channel.
+and then ask any question to the bot and bot will give the answer in the text-channel using OpenAI API.
 
 ## Bot Commands:
 
