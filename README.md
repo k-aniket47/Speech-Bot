@@ -16,6 +16,7 @@ Obtain your Discord bot token and OpenAI API key.
 Create a .env file in the root directory of the project and store your keys in it as follows:
 
 Discord_token=YOUR_DISCORD_BOT_TOKEN
+
 OPEN_AI_API=YOUR_OPENAI_API_KEY
 
 Invite the bot to your Discord server, making sure to grant it the necessary permissions to join voice channels and send messages in text channels.
